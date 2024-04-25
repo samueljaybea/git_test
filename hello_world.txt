@@ -1,0 +1,4 @@
+Hello World! I'm going through the Odin Project.
+This is the lesson where you learn about how to use Git and GitHub
+I'm hoping this course will give me a good foundation of skills to become a Software Developer.
+Thank you for reading!
